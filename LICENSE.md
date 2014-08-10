@@ -1,0 +1,1 @@
+As transparent as posible with zero restrictions on any use case, excluding using people's personal information aside from the owner of this site, Michael Jay Brown's personal informaiton. Contact: mich@eljaybrown.com
