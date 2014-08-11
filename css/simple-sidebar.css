@@ -1,3 +1,15 @@
+#head-Nav {
+  text-align: center;
+}
+
+#largest-Image {
+width: 100%;
+}
+
+#noBull {
+    list-style-type: none;
+}
+
 #wrapper {
   padding-left: 250px;
   transition: all 0.4s ease 0s;
